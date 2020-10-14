@@ -32,7 +32,7 @@ _Need to write something really important but need it to get stored? Personally 
 
 ## Contributions
 ---
-A solo project by me! Check out more cool stuffs (here)[https://github.com].
+A solo project by me! Check out more cool stuffs [here](https://github.com/adamvenord17).
 
 You can also have an insight of the contributions and its rate [here](https://github.com/adamvenord17/newchat/graphs/contributors).
 
