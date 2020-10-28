@@ -1,7 +1,9 @@
 <p align="center">
   <img height='100px' width='100px' src="https://raw.githubusercontent.com/adamvenord17/newchat/master/newchat/public/favicon.ico" width="320" alt="Contro " />
 </p>
+
 # newchat
+
 A new era of communicating!
 
 A platform to communicate with your friends in realtime, while at the same time challenging them to an online game. No friends online? Don't worry, we got you! You can go against a bot too or even chat with the newchat assistant without any of your chats getting stored ever with the bot!
