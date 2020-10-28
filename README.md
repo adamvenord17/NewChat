@@ -2,7 +2,7 @@
   <img height='100px' width='100px' src="https://raw.githubusercontent.com/adamvenord17/newchat/master/newchat/public/favicon.ico" width="320" alt="Contro " />
 </p>
 
-# newchat
+# NewChat
 
 A new era of communicating!
 
